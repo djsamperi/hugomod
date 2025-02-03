@@ -1,1 +1,1 @@
-Docs for huhumod
+Docs for hugumod
